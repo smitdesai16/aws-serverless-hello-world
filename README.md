@@ -6,6 +6,7 @@ Removal Stack
 serverless remove -v
 
 Following AWS Service will get affected
+
 cloudformation
 iam
 cloudwatch
