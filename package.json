@@ -1,0 +1,22 @@
+{
+  "name": "serverless-hello-world",
+  "version": "1.0.0",
+  "description": "",
+  "main": "handler.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/smitdesai16/serverless-hello-world.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/smitdesai16/serverless-hello-world/issues"
+  },
+  "homepage": "https://github.com/smitdesai16/serverless-hello-world#readme",
+  "devDependencies": {
+    "serverless-offline": "^6.1.5"
+  }
+}

@@ -13,8 +13,8 @@
 
 service: serverless-hello-world
 # app and org for use with dashboard.serverless.com
-#app: your-app-name
-#org: your-org-name
+app: serverless-hello-world-app
+org: smitdesai16
 
 # You can pin your service to only deploy with a specific Serverless version
 # Check out our docs for more details
@@ -111,3 +111,5 @@ functions:
 #     NewOutput:
 #       Description: "Description for the output"
 #       Value: "Some output value"
+plugins:
+  - serverless-offline
