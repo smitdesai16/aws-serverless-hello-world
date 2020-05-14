@@ -1,13 +1,13 @@
 # serverless-hello-world
-##Deploy Stack
+## Deploy Stack
 ```bash
 serverless deploy -v
 ```
-##Removal Stack
+## Removal Stack
 ```bash
 serverless remove -v
 ```
-##Following AWS Service will get affected
+## Following AWS Service will get affected
 ```bash
 cloudformation
 iam
