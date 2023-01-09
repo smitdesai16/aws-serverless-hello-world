@@ -17,6 +17,6 @@
   },
   "homepage": "https://github.com/smitdesai16/serverless-hello-world#readme",
   "devDependencies": {
-    "serverless-offline": "^6.1.5"
+    "serverless-offline": "^12.0.4"
   }
 }
